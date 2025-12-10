@@ -1,71 +1,72 @@
--- Swiggy Sales & Performance Dashboard
+# 🍔 Swiggy Sales & Performance Dashboard
 
-This project presents an interactive dashboard designed to analyze Swiggy’s sales, orders, customer behavior, restaurant performance, and delivery efficiency. The dashboard helps businesses make data-driven decisions by visualizing key trends and performance metrics.
+An interactive **Excel-based dashboard** created to analyze **Swiggy’s sales performance, customer behavior, restaurant insights, and delivery efficiency**.  
+This project focuses on converting raw data into **clear, actionable business insights**.
 
--- Project Overview
+---
 
-The Swiggy Dashboard provides a comprehensive understanding of food delivery performance. It highlights daily/weekly/monthly sales trends, order volume, top-performing restaurants, customer patterns, and delivery partner efficiency.
+## 📊 Project Overview
 
-This dashboard enables stakeholders to monitor real-time KPIs, identify bottlenecks, and take actionable steps for business improvement.
+The **Swiggy Sales & Performance Dashboard** provides a complete view of food delivery operations.  
+It highlights sales trends, order volume, customer ordering patterns, top-performing restaurants, and delivery partner efficiency.
 
--- Key Features
+The dashboard helps stakeholders **track KPIs, identify bottlenecks, and make data-driven decisions**.
 
-Total Sales, Total Orders & Revenue Trends
+---
 
-Top Restaurants by Orders & Revenue
+## ✨ Key Features
 
-Customer Segmentation & Ordering Patterns
+- 📈 Total Sales, Total Orders & Revenue Trends  
+- 🍽 Top Restaurants by Orders and Revenue  
+- 👥 Customer Segmentation & Ordering Patterns  
+- 🚴 Delivery Time Analysis & Efficiency Score  
+- 🌆 City-wise / Region-wise Sales Comparison  
+- ⏰ Peak Ordering Hours & Weekly Demand Pattern  
+- 🎛 Interactive Filters for Deep Analysis  
 
-Delivery Time Analysis & Efficiency Score
+---
 
-City-wise / Region-wise Sales Comparison
+## 🛠 Tech Stack
 
-Peak Ordering Hours & Weekly Demand Pattern
+**Tool Used**
+- Microsoft Excel  
 
-Interactive Filters for Deep Analysis
+**Techniques**
+- Data Cleaning & Transformation using Excel functions  
+- Pivot Tables & Pivot Charts  
+- Slicers for interactivity  
 
--- Tech Stack
+**Visualizations**
+- Line Chart  
+- Bar Chart  
+- Pie / Donut Chart  
+- KPI Cards  
 
-Excel Dashboard (Pivot Tables, Slicers, Charts)
+---
 
-Data Cleaning & Transformation using Excel Functions
+## 📌 Insights Derived
 
-Visualizations:
+- Identified **top revenue-generating restaurants**
+- Discovered **peak ordering times** for demand planning
+- Analyzed **city-level performance differences**
+- Evaluated **delivery partner efficiency and delays**
+- Studied **customer repeat ordering trends**
 
-Line Chart
+---
 
-Bar Chart
+## ▶ How to Use the Dashboard
 
-Pie / Donut Chart
+1. Open `dashboard.xlsx` in **Microsoft Excel**
+2. Use slicers/filters to analyze data by:
+   - Date  
+   - City  
+   - Restaurant  
+   - Category  
+3. Observe KPIs and visual trends
+4. Use insights for **business growth and optimization**
 
-KPI Cards
+---
 
--- Insights Derived
+## ⭐ Project Purpose
 
-Identified top revenue-generating restaurants
-
-Understood peak order timings for demand planning
-
-Analyzed city-level performance differences
-
-Measured delivery partner performance & delays
-
-Customer repeat ordering trends
-
--- How to Use the Dashboard
-
-Open dashboard.xlsx in Microsoft Excel
-
-Use slicers/filters to explore:
-
-Date
-
-City
-
-Restaurant
-
-Category
-
-Analyze KPIs and visual trends
-
-Use insights for business decisions
+This project demonstrates **data analysis, business intelligence, and Excel dashboarding skills**, making it suitable for **Data Analyst / Business Analyst portfolios**.
