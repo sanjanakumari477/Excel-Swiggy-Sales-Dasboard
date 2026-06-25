@@ -4,7 +4,6 @@ An interactive **Excel-based dashboard** created to analyze **Swiggy’s sales p
 This project focuses on converting raw data into **clear, actionable business insights**.
 
 ---
-
 ## 📊 Project Overview
 
 The **Swiggy Sales & Performance Dashboard** provides a complete view of food delivery operations.  
